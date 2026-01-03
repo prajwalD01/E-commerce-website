@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Cricket Bat",
+        "price": 49.99,
+        "description": "High-quality cricket bat made from premium willow.",
+        "image": "assets/images/cricket-bat.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cricket Ball",
+        "price": 19.99,
+        "description": "Durable leather cricket ball for professional play.",
+        "image": "assets/images/cricket-ball.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cricket Helmet",
+        "price": 39.99,
+        "description": "Lightweight and protective cricket helmet.",
+        "image": "assets/images/cricket-helmet.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cricket Pads",
+        "price": 29.99,
+        "description": "Comfortable and protective cricket pads.",
+        "image": "assets/images/cricket-pads.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cricket Gloves",
+        "price": 24.99,
+        "description": "Breathable and flexible cricket gloves.",
+        "image": "assets/images/cricket-gloves.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Cricket Shoes",
+        "price": 59.99,
+        "description": "High-performance cricket shoes for better grip.",
+        "image": "assets/images/cricket-shoes.jpg"
+    }
+]
